@@ -1,0 +1,9 @@
+[
+    {
+        "name": "build",
+        "command": "sh ./build.sh",
+        "env": {
+            "NODE_ENV": "production"
+        }
+    }
+]
